@@ -1,0 +1,10 @@
+{
+  "id": 2,
+  "name": "TV SamSung MK 50",
+  "price": "7500000",
+  "priceSale": "6900000",
+  "thumb": "http://placehold.it/180x180",
+  "brand": "SamSung",
+  "guarantee": 36,
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris non eleifend nisi. Integer nisl tellus, commodo nec elementum ut, viverra at metus. Pellentesque placerat leo nisl, id imperdiet lectus efficitur nec. Aliquam vitae lacus quis dolor interdum laoreet sed quis dui. Maecenas vitae mauris nibh"
+}

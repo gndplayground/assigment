@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "TV LG HK600",
+    "price": 6500000,
+    "priceSale": 5400000,
+    "thumb": "http://placehold.it/180x180"
+  },
+  {
+    "id": 2,
+    "name": "TV SamSung MK 50",
+    "price": 7500000,
+    "priceSale": 6900000,
+    "thumb": "http://placehold.it/180x180"
+  },
+  {
+    "id": 3,
+    "name": "Máy giặt Sanyo RX-50",
+    "price": 5500000,
+    "priceSale": 4960000,
+    "thumb": "http://placehold.it/180x180"
+  },
+  {
+    "id": 4,
+    "name": "Máy giặt Hitachi HT-04",
+    "price": 10500000,
+    "priceSale": 9900000,
+    "thumb": "http://placehold.it/180x180"
+  },
+  {
+    "id": 5,
+    "name": "Máy giặt LG MKR-10",
+    "price": 7505000,
+    "priceSale": 6950000,
+    "thumb": "http://placehold.it/180x180"
+  }
+]
